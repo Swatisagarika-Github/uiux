@@ -65,7 +65,7 @@ button:hover{
 }
 #education{
   padding: 50px;
-  background-color: #f4f4f4;
+  background-color: #ede8eb;
  
 }
 #education h2{
@@ -76,7 +76,7 @@ button:hover{
   
 }
 .education-card{
-  background: #fff;
+  background: #112a3b;
   border: 2px solid#ddd;
   padding: 20px;
   margin: 20px 0;
@@ -86,15 +86,15 @@ button:hover{
 }
 .education-card h3{
   font-size: 1.8rem;
-  color: #007bff;
+  color: #a3a8ab;
 }
 .education-card p{
   font-size: 1.1rem;
-  color:#555;
+  color:#b77cab;
   margin: 5px;
 }
 .education-card strong{
-  color:#000;
+  color:#ac5d90;
 }
 #contact{
   background-color: #f9f9f9;
@@ -115,7 +115,7 @@ button:hover{
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
-  background-color: white;
+  background-color: rgb(177, 182, 185);
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   border-radius: 10px;
 }
